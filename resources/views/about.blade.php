@@ -3,9 +3,9 @@
 
 
 @section('content')
-<div class="container">
+<h1 class="text-center py-5 bg-secondary">About</h1>
+<div class="container py-5">
     <div class="row">
-        <h1>About</h1>
         <div class="col-lg-3">
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Lorem ipsum, dolor sit amet consectetur adipisicing elit. </p>
         </div>

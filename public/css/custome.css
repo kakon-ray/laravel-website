@@ -1,3 +1,7 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
 .logo {
     width: 100px;
     height: 40px;
@@ -6,4 +10,17 @@
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
+}
+
+.parallax {
+    background-image: url("../images/banner.jpg");
+    min-height: 400px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.topDiv {
+    margin-top: 120px;
 }
